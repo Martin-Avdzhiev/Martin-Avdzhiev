@@ -1,7 +1,5 @@
 <h1 align="center">👋Hi, I'm Marto</h1>
 
-- 📄 Know about my experiences [https://github.com/Martin-Avdzhiev/Certificates/blob/main/CV.pdf](https://github.com/Martin-Avdzhiev/Certificates/blob/main/CV.pdf)
-
 - 📫 How to reach me **https://www.linkedin.com/in/martin-avdzhiev/**
 
 <h3 align="left">Connect with me:</h3>
